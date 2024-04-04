@@ -1,0 +1,27 @@
+
+.AdminNavbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 70px ;
+    /* background-color: rgb(111, 111, 245);   */
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg");
+    height: 90px;
+}
+.AdminNavbar a{
+    text-decoration: none;
+    font-family: cursive;
+    color:crimson;
+    margin: 0px 30px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.AdminNavbar h1{
+    font-style: italic;
+    font-family: cursive;
+    color: crimson;
+}
+.AdminNavbar span{
+    color: black;
+}

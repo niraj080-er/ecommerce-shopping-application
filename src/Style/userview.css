@@ -1,0 +1,74 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+  .userview {
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    justify-content: space-around;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),
+      url("https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg?cs=srgb&dl=pexels-fwstudio-129731.jpg&fm=jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .viewmain {
+    height: 350px;
+    width: 320px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+    background-color: rgb(29, 169, 229);
+    box-shadow: 0px 0px 60px black inset;
+    padding: 10px;
+  }
+  .viewmain:hover {
+    filter: drop-shadow(10px 10px 10px black);
+  }
+  .viewmain img {
+    width: 100%;
+    height: 160px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    box-shadow: 10px 10px 60px black inset;
+  }
+  .urest {
+    display: flex;
+    justify-content: space-between;
+  }
+  .urest button {
+    background-color: rgb(18, 233, 236);
+    border: none;
+    padding: 0px 5px;
+    border-radius: 4px;
+    height: fit-content;
+    width: fit-content;
+  }
+  .urest > button > span {
+    color: yellow;
+  }
+  .ucatg {
+    display: flex;
+    justify-content: space-between;
+  }
+  #upr {
+    z-index: 1;
+  }
+  .udet {
+    padding: 0px 10px;
+  }
+  .btns {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .btns button {
+    border: 1px solid black;
+    background-color: rgb(24, 240, 240);
+    box-shadow: 0px 0px 20px black inset;
+    padding: 0px 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+  }

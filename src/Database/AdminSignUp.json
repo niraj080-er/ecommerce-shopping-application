@@ -1,0 +1,538 @@
+{
+  "AdminSignUp": [
+    {
+      "id": "c420",
+      "name": "Niraj",
+      "email": "niraj888k@gmail.com",
+      "phone": "6280458043",
+      "password": "1234",
+      "profile": "https://media.licdn.com/dms/image/D5603AQFz4OD3qmQyrQ/profile-displayphoto-shrink_400_400/0/1702206152206?e=1714003200&v=beta&t=kX6ZJ8K_TEaHYQi3QDiHldA3aWSO2aKOl__QjXnyCFA"
+    },
+    {
+      "id": "507d",
+      "name": "kohli",
+      "email": "kohli@gmail.com",
+      "phone": "9507480498",
+      "password": "1234",
+      "profile": "https://im.rediff.com/cricket/2022/oct/23kohli3.jpg?w=670&h=900"
+    },
+    {
+      "id": "ec14",
+      "name": "kumar",
+      "email": "kumar@gmail.com",
+      "phone": "6280458043",
+      "password": "1234",
+      "profile": "guhhdssd"
+    },
+    {
+      "id": "8ef6",
+      "name": "niraj",
+      "email": "niraj@gmail.com",
+      "phone": "123456789",
+      "password": "1234",
+      "profile": "jdhsama"
+    },
+    {
+      "id": "5ae8",
+      "name": "niraj",
+      "email": "kumar@gmail.com",
+      "phone": "3423525",
+      "password": "1234",
+      "profile": "bjhabsdhb;as"
+    },
+    {
+      "id": "2d84",
+      "name": "niraj",
+      "email": "nk@gmail.com",
+      "phone": "3214567",
+      "password": "1234",
+      "profile": "sdfghjklcvbn"
+    }
+  ],
+  "Products": [
+    {
+      "id": "857o",
+      "category": "Beverages",
+      "restname": "ChaiCraze",
+      "dishname": "Masala Chai",
+      "price": "40",
+      "quantity": "1",
+      "description": "Traditional Indian spiced tea",
+      "thumbnailurl": "https://forktospoon.com/wp-content/uploads/2021/09/Instant-Pot-Spiced-Milk-Tea-Masala-Chai.jpg",
+      "rating": "4"
+    },
+    {
+      "id": "f33d",
+      "category": "Breads",
+      "restname": "Palace Nnan",
+      "dishname": "Kulcha",
+      "price": "70",
+      "quantity": "1",
+      "description": "A small, round delicious indian bread",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wmorty8lgpgdq2yn0hxx",
+      "rating": "4"
+    },
+    {
+      "id": "ffa0",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Honey Chilli Potato",
+      "price": "310",
+      "quantity": "1",
+      "description": "Honey Chilli Potato Indian food",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/3b31105ecb922d76ec1f5bb9283c2a4c",
+      "rating": "4"
+    },
+    {
+      "id": "7b78",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Grilled Mushroom",
+      "price": "390",
+      "quantity": "1",
+      "description": "Grilled Mushroom Indian food",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/3b31105ecb922d76ec1f5bb9283c2a4c",
+      "rating": "4"
+    },
+    {
+      "id": "f211",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Chilli Potato [dry]",
+      "price": "280",
+      "quantity": "10",
+      "description": "Chilli Potato [dry] is Indian food ",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d53df18e2412690ff9703940f429432b",
+      "rating": "4"
+    },
+    {
+      "id": "8140",
+      "category": "Breads",
+      "restname": "meghana",
+      "dishname": "paneer tikka",
+      "price": "100",
+      "quantity": "2",
+      "description": "spicy paneer barbequed",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uuupytexfg5biztkdmio",
+      "rating": "5"
+    },
+    {
+      "id": "5371",
+      "category": "Chinese",
+      "restname": "Beijing Bites",
+      "dishname": "Veg Wanton Soup",
+      "price": "50",
+      "quantity": "10",
+      "description": "Thin soup with veggies & minced vegetable stuffed wantons",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8f8a4c5f279575811cf02bfe66bcd4c7",
+      "rating": "4"
+    },
+    {
+      "id": "1a2e",
+      "category": "Chinese",
+      "restname": "Beijing Bites",
+      "dishname": "Crispy Peking Baby Corn",
+      "price": "159",
+      "quantity": "1",
+      "description": "Crispy fried babycorn strips stir fried in a chef special tangy & spicy sauce.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9b7fe661184785b6d507124ec92913e3",
+      "rating": "4"
+    },
+    {
+      "id": "673a",
+      "category": "",
+      "restname": "Beijing Bites",
+      "dishname": "Taipei Chicken",
+      "price": "349",
+      "quantity": "1",
+      "description": "Crispy fried chicken tossed in a sweet, spicy & tangy sauce",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ccf471b26f2b0a851d710a8a7c9365f4",
+      "rating": "4"
+    },
+    {
+      "id": "48fd",
+      "category": "Breads",
+      "restname": "Lavonne",
+      "dishname": "Butter Croissant",
+      "price": "200",
+      "quantity": "1",
+      "description": "Buttery flaky viennoiserie baked to golden crisp perfection.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ibopjotvtdd9urynmpio",
+      "rating": "4"
+    },
+    {
+      "id": "ee60",
+      "category": "Breads",
+      "restname": "Lavonne",
+      "dishname": "Cinnamon Roll",
+      "price": "220",
+      "quantity": "1",
+      "description": "Buttery flaky viennoiserie baked to golden crisp perfection.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ibopjotvtdd9urynmpio",
+      "rating": "4"
+    },
+    {
+      "id": "d00e",
+      "category": "Beverages",
+      "restname": "Lavonne",
+      "dishname": "Americano",
+      "price": "160",
+      "quantity": "1",
+      "description": "Rich aromatic coffee brewed along with hot water.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hovrpzv7rfrhzgpsaydv",
+      "rating": "4"
+    },
+    {
+      "id": "bf97",
+      "category": "Beverages",
+      "restname": "Lavonne",
+      "dishname": "Cafe Latte",
+      "price": "200",
+      "quantity": "1",
+      "description": "Freshly brewed espresso balanced with steamed milk and a thin layer of foam.\n",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/anamt4saylfpcunswryw",
+      "rating": "3"
+    },
+    {
+      "id": "b785",
+      "category": "Beverages",
+      "restname": "Ice-zone",
+      "dishname": "Brownie Ice Cream",
+      "price": "102",
+      "quantity": "1",
+      "description": "Filled with chocolate-y goodness and real brownie bits, a bar so good, you won't be able to resist going back for another! 130 Calories | Zero Added Sugar | 80ml",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ed4fdead308ad0e5a3907e394f9e1288",
+      "rating": "5"
+    },
+    {
+      "id": "dbc1",
+      "category": "Beverages",
+      "restname": "Ice-zone",
+      "dishname": "Roasted Ice Cream",
+      "price": "102",
+      "quantity": "1",
+      "description": "Rich, nutty flavor of roasted hazelnuts combined with chocolate-y goodness, a bar so delicious, it will keep you wanting more! 135 Calories | Zero Added Sugar | 80ml",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/18449f289889f8063d459774bcd9ac83",
+      "rating": "5"
+    },
+    {
+      "id": "c41a",
+      "category": "Desserts",
+      "restname": "Wendy's",
+      "dishname": "Coke",
+      "price": "89",
+      "quantity": "10",
+      "description": "Relish the Mango flavour every season with our rich Mango mousse! ",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/47e00f3310e6c6dc4f1ca1089f758009",
+      "rating": "4"
+    },
+    {
+      "id": "fd78",
+      "category": "Desserts",
+      "restname": "Bowl-zone",
+      "dishname": "Kesariya Rasamalai",
+      "price": "99",
+      "quantity": "4",
+      "description": "Soft and spongy cottage cheese dumplings soaked in a dry fruit aced creamy saffron milk rabri. Got to love all things old school. Contains milk, nuts. Energy : 121 Kcal.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/4d81e491e22d8c6981ddd174e57f09b2",
+      "rating": "4"
+    },
+    {
+      "id": "f33d",
+      "category": "Breads",
+      "restname": "Palace Nnan",
+      "dishname": "Kulcha",
+      "price": "70",
+      "quantity": "1",
+      "description": "A small, round delicious indian bread",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wmorty8lgpgdq2yn0hxx",
+      "rating": "4"
+    },
+    {
+      "id": "ffa0",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Honey Chilli Potato",
+      "price": "310",
+      "quantity": "1",
+      "description": "Honey Chilli Potato Indian food",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/3b31105ecb922d76ec1f5bb9283c2a4c",
+      "rating": "4"
+    },
+    {
+      "id": "857o",
+      "category": "Beverages",
+      "restname": "ChaiCraze",
+      "dishname": "Masala Chai",
+      "price": "40",
+      "quantity": "1",
+      "description": "Traditional Indian spiced tea",
+      "thumbnailurl": "https://forktospoon.com/wp-content/uploads/2021/09/Instant-Pot-Spiced-Milk-Tea-Masala-Chai.jpg",
+      "rating": "4"
+    },
+    {
+      "id": "f33d",
+      "category": "Breads",
+      "restname": "Palace Nnan",
+      "dishname": "Kulcha",
+      "price": "70",
+      "quantity": "1",
+      "description": "A small, round delicious indian bread",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wmorty8lgpgdq2yn0hxx",
+      "rating": "4"
+    },
+    {
+      "id": "ffa0",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Honey Chilli Potato",
+      "price": "310",
+      "quantity": "1",
+      "description": "Honey Chilli Potato Indian food",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/3b31105ecb922d76ec1f5bb9283c2a4c",
+      "rating": "4"
+    },
+    {
+      "id": "7b78",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Grilled Mushroom",
+      "price": "390",
+      "quantity": "1",
+      "description": "Grilled Mushroom Indian food",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/3b31105ecb922d76ec1f5bb9283c2a4c",
+      "rating": "4"
+    },
+    {
+      "id": "aaeb",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Baby Corn Manchurian [dry]",
+      "price": "290",
+      "quantity": "10",
+      "description": "Baby Corn Manchurian [dry] is Indian food",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ca9d3f3f35799c13bc70d9e50ac3175b",
+      "rating": "4"
+    },
+    {
+      "id": "780a",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Cauliflower Manchurian [dry]",
+      "price": "290",
+      "quantity": "10",
+      "description": "Cauliflower Manchurian [dry] is Indian food ",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d53df18e2412690ff9703940f429432b",
+      "rating": "4"
+    },
+    {
+      "id": "f211",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Chilli Potato [dry]",
+      "price": "280",
+      "quantity": "10",
+      "description": "Chilli Potato [dry] is Indian food ",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d53df18e2412690ff9703940f429432b",
+      "rating": "4"
+    },
+    {
+      "id": "8140",
+      "category": "Breads",
+      "restname": "meghana",
+      "dishname": "paneer tikka",
+      "price": "100",
+      "quantity": "2",
+      "description": "spicy paneer barbequed",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uuupytexfg5biztkdmio",
+      "rating": "5"
+    },
+    {
+      "id": "5371",
+      "category": "Chinese",
+      "restname": "Beijing Bites",
+      "dishname": "Veg Wanton Soup",
+      "price": "50",
+      "quantity": "10",
+      "description": "Thin soup with veggies & minced vegetable stuffed wantons",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8f8a4c5f279575811cf02bfe66bcd4c7",
+      "rating": "4"
+    },
+    {
+      "id": "f33d",
+      "category": "Breads",
+      "restname": "Palace Nnan",
+      "dishname": "Kulcha",
+      "price": "70",
+      "quantity": "1",
+      "description": "A small, round delicious indian bread",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wmorty8lgpgdq2yn0hxx",
+      "rating": "4"
+    },
+    {
+      "id": "ffa0",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Honey Chilli Potato",
+      "price": "310",
+      "quantity": "1",
+      "description": "Honey Chilli Potato Indian food",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/3b31105ecb922d76ec1f5bb9283c2a4c",
+      "rating": "4"
+    },
+    {
+      "id": "7b78",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Grilled Mushroom",
+      "price": "390",
+      "quantity": "1",
+      "description": "Grilled Mushroom Indian food",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/3b31105ecb922d76ec1f5bb9283c2a4c",
+      "rating": "4"
+    },
+    {
+      "id": "aaeb",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Baby Corn Manchurian [dry]",
+      "price": "290",
+      "quantity": "10",
+      "description": "Baby Corn Manchurian [dry] is Indian food",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ca9d3f3f35799c13bc70d9e50ac3175b",
+      "rating": "4"
+    },
+    {
+      "id": "780a",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Cauliflower Manchurian [dry]",
+      "price": "290",
+      "quantity": "10",
+      "description": "Cauliflower Manchurian [dry] is Indian food ",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d53df18e2412690ff9703940f429432b",
+      "rating": "4"
+    },
+    {
+      "id": "f211",
+      "category": "Breads",
+      "restname": "Zaitoon",
+      "dishname": "Chilli Potato [dry]",
+      "price": "280",
+      "quantity": "10",
+      "description": "Chilli Potato [dry] is Indian food ",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d53df18e2412690ff9703940f429432b",
+      "rating": "4"
+    },
+    {
+      "id": "8140",
+      "category": "Breads",
+      "restname": "meghana",
+      "dishname": "paneer tikka",
+      "price": "100",
+      "quantity": "2",
+      "description": "spicy paneer barbequed",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uuupytexfg5biztkdmio",
+      "rating": "5"
+    },
+    {
+      "id": "5371",
+      "category": "Chinese",
+      "restname": "Beijing Bites",
+      "dishname": "Veg Wanton Soup",
+      "price": "50",
+      "quantity": "10",
+      "description": "Thin soup with veggies & minced vegetable stuffed wantons",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8f8a4c5f279575811cf02bfe66bcd4c7",
+      "rating": "4"
+    },
+    {
+      "id": "1a2e",
+      "category": "Chinese",
+      "restname": "Beijing Bites",
+      "dishname": "Crispy Peking Baby Corn",
+      "price": "159",
+      "quantity": "1",
+      "description": "Crispy fried babycorn strips stir fried in a chef special tangy & spicy sauce.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9b7fe661184785b6d507124ec92913e3",
+      "rating": "4"
+    },
+    {
+      "id": "673a",
+      "category": "",
+      "restname": "Beijing Bites",
+      "dishname": "Taipei Chicken",
+      "price": "349",
+      "quantity": "1",
+      "description": "Crispy fried chicken tossed in a sweet, spicy & tangy sauce",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ccf471b26f2b0a851d710a8a7c9365f4",
+      "rating": "4"
+    },
+    {
+      "id": "48fd",
+      "category": "Breads",
+      "restname": "Lavonne",
+      "dishname": "Butter Croissant",
+      "price": "200",
+      "quantity": "1",
+      "description": "Buttery flaky viennoiserie baked to golden crisp perfection.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ibopjotvtdd9urynmpio",
+      "rating": "4"
+    },
+    {
+      "id": "ee60",
+      "category": "Breads",
+      "restname": "Lavonne",
+      "dishname": "Cinnamon Roll",
+      "price": "220",
+      "quantity": "1",
+      "description": "Buttery flaky viennoiserie baked to golden crisp perfection.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ibopjotvtdd9urynmpio",
+      "rating": "4"
+    },
+    {
+      "id": "d00e",
+      "category": "Beverages",
+      "restname": "Lavonne",
+      "dishname": "Americano",
+      "price": "160",
+      "quantity": "1",
+      "description": "Rich aromatic coffee brewed along with hot water.",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hovrpzv7rfrhzgpsaydv",
+      "rating": "4"
+    },
+    {
+      "id": "bf97",
+      "category": "Beverages",
+      "restname": "Lavonne",
+      "dishname": "Cafe Latte",
+      "price": "200",
+      "quantity": "1",
+      "description": "Freshly brewed espresso balanced with steamed milk and a thin layer of foam.\n",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/anamt4saylfpcunswryw",
+      "rating": "3"
+    },
+    {
+      "id": "b785",
+      "category": "Beverages",
+      "restname": "Ice-zone",
+      "dishname": "Brownie Ice Cream",
+      "price": "102",
+      "quantity": "1",
+      "description": "Filled with chocolate-y goodness and real brownie bits, a bar so good, you won't be able to resist going back for another! 130 Calories | Zero Added Sugar | 80ml",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ed4fdead308ad0e5a3907e394f9e1288",
+      "rating": "5"
+    },
+    {
+      "id": "dbc1",
+      "category": "Beverages",
+      "restname": "Ice-zone",
+      "dishname": "Roasted Ice Cream",
+      "price": "102",
+      "quantity": "1",
+      "description": "Rich, nutty flavor of roasted hazelnuts combined with chocolate-y goodness, a bar so delicious, it will keep you wanting more! 135 Calories | Zero Added Sugar | 80ml",
+      "thumbnailurl": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/18449f289889f8063d459774bcd9ac83",
+      "rating": "5"
+    }
+  ]
+}

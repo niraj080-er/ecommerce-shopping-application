@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  .usignup {
+    display: flex;
+    justify-content: center;
+    transform: translateY(130px);
+  }
+  .usignup h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transform: translate(-150px, 120px);
+    background: linear-gradient(rgb(230, 247, 3), rgb(4, 173, 220));
+    height: fit-content;
+    color: transparent;
+    background-clip: text;
+    filter: drop-shadow(4px 2px 2px black);
+  }
+  .usignup form {
+    font-weight: bold;
+    background: linear-gradient(rgb(230, 247, 3), rgb(4, 173, 220));
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px black;
+  }
+  
+  .usignup input {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+  }
+  .usignup button {
+    background-color: transparent;
+    padding: 5px 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+  }
+  
+  .usignup button:hover {
+    color: red;
+    border-color: red;
+  }
+  .usignup button:active {
+    color: green;
+    border-color: green;
+  }
+  .usignup input::placeholder {
+    font-family: serif;
+  }
